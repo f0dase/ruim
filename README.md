@@ -1,2 +1,2 @@
-# ruim
-Marca desenvolvida de forma ruim.
+### ruim
+A pior forma de desenvolver uma  marca com svg.
